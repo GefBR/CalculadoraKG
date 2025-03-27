@@ -13,7 +13,7 @@ init()
 # Função para exibir o título estilizado
 def exibir_titulo():
     print(f"{Fore.GREEN}{Style.BRIGHT}╔════════════════════════════════════╗{Style.RESET_ALL}")
-    print(f"{Fore.GREEN}{Style.BRIGHT}║     Calculadora de Projetos KG     ║{Style.RESET_ALL}")
+    print(f"{Fore.GREEN}{Style.BRIGHT}║     Calculadora de Projetos  KG     ║{Style.RESET_ALL}")
     print(f"{Fore.GREEN}{Style.BRIGHT}╚════════════════════════════════════╝{Style.RESET_ALL}")
     print(f"{Fore.LIGHTBLACK_EX}Precificação para projetos arquitetônicos{Style.RESET_ALL}\n")
 
